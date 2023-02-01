@@ -9,17 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="291fcbd1-7994-45fe-96b7-d76e3cf23e66" name="Changes" comment="Version 1.0">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Snake4j_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+    <list default="true" id="291fcbd1-7994-45fe-96b7-d76e3cf23e66" name="Changes" comment="Add Snake4j.jar file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/rafaeleustaquio/snake4j/CellCoordinate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/CellCoordinate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/rafaeleustaquio/snake4j/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Direction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/rafaeleustaquio/snake4j/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/rafaeleustaquio/snake4j/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/rafaeleustaquio/snake4j/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/rafaeleustaquio/snake4j/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/rafaeleustaquio/snake4j/SnakeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,12 +81,31 @@
       <option name="project" value="LOCAL" />
       <updated>1675274404590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Snake4j.jar file">
+      <created>1675278179005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675278179005</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Version 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1.0" />
+    <MESSAGE value="Add Snake4j.jar file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Snake4j.jar file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
