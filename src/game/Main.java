@@ -1,6 +1,6 @@
-package br.rafaeleustaquio.snake4j;
+package game;
 
-public class SnakeGame {
+public class Main {
     public static void main(String[] args) {
 
         // GameWindow config

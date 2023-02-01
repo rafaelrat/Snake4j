@@ -1,4 +1,4 @@
-package br.rafaeleustaquio.snake4j;
+package game;
 
 public enum Direction {
     UP,
