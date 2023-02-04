@@ -1,6 +1,12 @@
 # Snake4j
-A weirdo snake game written in Java.
+**A weirdo snake game written in Java using Swing.**
+
+![game_screenshot](img/game_screenshot.png "Game_screenshot")
 
 ## How to play
-Clone this repository and run:
-`java -jar Snake4j-1.0.jar`
+* Download the `Snake4j.jar` file
+* Run with `java -jar Snake4j.jar`
+* Control the snake with the arrows keys
+* To play again, close and re-open it
+
+
