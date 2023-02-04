@@ -1,5 +1,5 @@
 # Snake4j
-**A weirdo snake game written in Java using Swing.**
+**A weird snake game written in Java using Swing.**
 
 ![game_screenshot](img/game_screenshot.png "Game_screenshot")
 
