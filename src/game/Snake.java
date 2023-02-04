@@ -62,8 +62,8 @@ public class Snake {
         int headX, headY, secondX, secondY;
 
         // Random gen snake head and your daughter
-        //int randomSnakeSize = random.nextInt(4, 8);
-        int randomSnakeSize = 2;
+        int randomSnakeSize = random.nextInt(4, 8);
+        //int randomSnakeSize = 2;
 
         headX = random.nextInt(randomSnakeSize, (GamePanel.SCREEN_WIDTH - randomSnakeSize * GamePanel.BLOCK_SIZE) / GamePanel.BLOCK_SIZE) * GamePanel.BLOCK_SIZE;
         headY = random.nextInt(randomSnakeSize, (GamePanel.SCREEN_HEIGHT - randomSnakeSize * GamePanel.BLOCK_SIZE) / GamePanel.BLOCK_SIZE) * GamePanel.BLOCK_SIZE;

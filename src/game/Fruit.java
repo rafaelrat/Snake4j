@@ -22,10 +22,9 @@ public class Fruit {
         var snakeSize = snake.getSnakeSize();
         var snakeBody = snake.getSnakeBody();
 
-
         // Random gen x position
         while (true) {
-            x = random.nextInt(1, (int) (GamePanel.SCREEN_WIDTH / GamePanel.BLOCK_SIZE) -1) * GamePanel.BLOCK_SIZE;
+            x = random.nextInt(1, (GamePanel.SCREEN_WIDTH / GamePanel.BLOCK_SIZE) -1) * GamePanel.BLOCK_SIZE;
 
             for (i = 0; i < snakeSize; i++) {
                 if (snakeBody.get(i).getX() == x) break;
@@ -35,7 +34,7 @@ public class Fruit {
 
         // Random gen y position
         while (true) {
-            y = random.nextInt(1,(int) (GamePanel.SCREEN_HEIGHT / GamePanel.BLOCK_SIZE) -1) * GamePanel.BLOCK_SIZE;
+            y = random.nextInt(1,(GamePanel.SCREEN_HEIGHT / GamePanel.BLOCK_SIZE) -1) * GamePanel.BLOCK_SIZE;
             for (i = 0; i < snakeSize; i++) {
                 if (snakeBody.get(i).getY() == y) break;
             }
