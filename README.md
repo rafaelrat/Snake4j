@@ -5,7 +5,7 @@
 
 ## How to play
 * Download the `Snake4j.jar` file
-* Make sure you have Java 17 installed
+* Make sure you have Java 17 or higher installed
 * Run `java -jar Snake4j.jar`
 * Control the snake with the arrow keys
 * To play again, close and reopen
